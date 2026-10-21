@@ -9,3 +9,8 @@ __pycache__/
 .ipynb_checkpoints/
 *.js
 docs/_images/math/
+# pip build leftovers
+/build/
+*.egg-info/
+__pycache__/
+*.pyc
